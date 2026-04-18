@@ -15,8 +15,8 @@ from time import sleep
 
 os.system('cls')
 
-print("sometimes i wanna sleep and never wake up again")
-link_request = input("link: ")
+print("Made by skidder.lol")
+link_request = input("Tiktok Video Link: ")
 
 chrome_options = uc.ChromeOptions()
 
